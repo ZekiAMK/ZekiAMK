@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Zeki 
 
-<!--
-**ZekiAMK/ZekiAMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at SDU Sønderborg, Denmark.
 
-Here are some ideas to get you started:
+## Focus
+- Mobile app development
+- UI/UX improvement
+- Software architecture
+- WebSite development
+- Learning game development with Godot(C#)
+- Building portfolio projects
+- C# and .NET development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+### RemindMe
+A productivity and reminder application built with .NET MAUI.
+
+Features:
+- Reminder management
+- Local notifications
+- Pomodoro timer
+- Statistics tracking
+- Modern dark UI
