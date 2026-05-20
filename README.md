@@ -33,5 +33,8 @@ Features:
 - Reminder management
 - Local notifications
 - Pomodoro timer
+- Pomodoro history
+- Remider filters
+- Multi-selection actions
 - Statistics tracking
 - Modern dark UI
