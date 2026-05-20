@@ -8,11 +8,11 @@ Software Engineering student at SDU Sønderborg, Denmark.
 - Software architecture and scalable project structure
 - WebSite development
 - Learning game development with Godot(C#)
-- Building portfolio projects
+- Building long-term portfolio projects
 - C# and .NET development
 - SQLite and local persistence systems
 
-## Current Flagship Project
+## Flagship Projects
 ### VisMagnus
 A modern bodybuilding and workout tracking application built with .NET MAUI.
 
@@ -26,7 +26,6 @@ Features:
 - Weekly insights and history systems
 - Modern premium dark UI
 
-## Completed Projects
 ### RemindMe
 A productivity and reminder application built with .NET MAUI.
 
