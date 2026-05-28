@@ -11,18 +11,23 @@ Software Engineering student at SDU Sønderborg, Denmark.
 - Building long-term portfolio projects
 - C# and .NET development
 - SQLite and local persistence systems
+- Android lifecycle handling and notification systems
+- MVVM architecture and clean mobile application design
 
 ## Flagship Projects
 ### VisMagnus
 A modern bodybuilding and workout tracking application built with .NET MAUI.
 
 Features:
-- Workout session tracking
-- Rest timer with notifications
+- Workout session and rest timer tracking
+- Android notification-integrated rest system
 - Nutrition and macro tracking
-- Progress and streak systems
+- Activity burn and net calorie tracking
+- BMI & TDEE calculator
+- Progress, streak, and achievement systems
 - Weight tracking timeline
-- Exercise library
+- Exercise library and categorized workouts
+- First-launch onboarding and contextual tutorials
 - Weekly insights and history systems
 - Modern premium dark UI
 
