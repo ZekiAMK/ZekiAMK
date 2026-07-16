@@ -7,12 +7,10 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Arka planı şeffaf (background=transparent) ve çerçevesiz (hide_border=true) yapıldı -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight&hide_border=true&background=transparent" alt="Zeki's Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight&hide_border=true&background=transparent" alt="Zeki's Streak" width="75%" />
 </p>
 
 <p align="center">
-  <!-- Alt Grafik -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZekiAMK&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff" alt="Zeki's Contribution Graph" width="100%" />
 </p>
 
