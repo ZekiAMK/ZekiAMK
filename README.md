@@ -5,15 +5,20 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <!-- GitHub Streak Stats (Daha kibar, kompakt ve ortalanmış) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight" alt="Zeki's Streak" width="65%" />
-</p>
-
-<p align="center">
-  <!-- Contribution Graph (Detayların rahat okunması için tam genişlikte) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZekiAMK&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff" alt="Zeki's Contribution Graph" width="100%" />
-</p>
+<table align="center" width="100%" style="width: 100%; border-collapse: collapse; border: none;">
+  <!-- Üstteki Streak Kartı (Genişliği tam kaplayacak şekilde hizalandı) -->
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0 0 15px 0;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight" alt="Zeki's Streak" width="100%" />
+    </td>
+  </tr>
+  <!-- Alttaki Grafik (Üstteki kartla birebir aynı kenar hizasında biter) -->
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZekiAMK&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff" alt="Zeki's Contribution Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
