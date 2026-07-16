@@ -1,24 +1,19 @@
-# Hi, I'm Zeki 
+# Hi, I'm Zeki 👋
 ### 🎓 Software Engineering Student @ SDU Sønderborg, Denmark
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<table align="center" width="100%" style="width: 100%; border-collapse: collapse; border: none;">
-  <!-- Üstteki Streak Kartı (Genişliği tam kaplayacak şekilde hizalandı) -->
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0 0 15px 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight" alt="Zeki's Streak" width="100%" />
-    </td>
-  </tr>
-  <!-- Alttaki Grafik (Üstteki kartla birebir aynı kenar hizasında biter) -->
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 0;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZekiAMK&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff" alt="Zeki's Contribution Graph" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Arka planı şeffaf (background=transparent) ve çerçevesiz (hide_border=true) yapıldı -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight&hide_border=true&background=transparent" alt="Zeki's Streak" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Alt Grafik -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZekiAMK&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff" alt="Zeki's Contribution Graph" width="100%" />
+</p>
 
 ---
 
