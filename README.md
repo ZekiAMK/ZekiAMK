@@ -5,19 +5,28 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight" alt="Zeki's Streak" width="49%" />
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ZekiAMK&show_icons=true&theme=tokyonight" alt="Zeki's GitHub Stats" width="49%" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZekiAMK&layout=compact&theme=tokyonight" alt="Zeki's Top Languages" width="49%" />
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZekiAMK&theme=tokyonight" alt="Zeki's Contribution Graph" width="49%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <!-- GitHub Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZekiAMK&theme=tokyonight" alt="Zeki's Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <!-- GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=ZekiAMK&show_icons=true&theme=tokyonight" alt="Zeki's GitHub Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZekiAMK&layout=compact&theme=tokyonight" alt="Zeki's Top Languages" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <!-- Contribution Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZekiAMK&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff" alt="Zeki's Contribution Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
