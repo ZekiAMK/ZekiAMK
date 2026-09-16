@@ -1,5 +1,3 @@
-# Hi, I'm Zeki
-
 ### Software Engineering Student @ SDU Sønderborg, Denmark
 
 ---
