@@ -13,7 +13,7 @@
 
 ---
 
-## Flagship Projects
+## Flagship Personal Projects
 
 ### EasyArchitecture
 
